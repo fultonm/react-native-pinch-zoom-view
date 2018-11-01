@@ -1,4 +1,5 @@
 # react-native-pinch-zoom-view
+# pointless change
 
 A pinch-to-zoom view for React Native. All the components wrapped in the view is scalable while still be able to respond to touch events.
 
